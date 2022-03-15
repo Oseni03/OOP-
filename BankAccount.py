@@ -31,8 +31,3 @@ bank.bankFees()
 print(bank.balance)
 
 bank.display()
-# k.display()
-# splay()
-#  splay()
-# ()
-# splay()
